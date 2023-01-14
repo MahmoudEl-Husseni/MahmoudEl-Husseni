@@ -1,6 +1,6 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1500&color=D27332&center=true&vCenter=true&width=435&lines=I+am+Mahmoud+Elhusseni;Communication+Engineering+Student;competitor+at+Kaggle;Freelancer+at+upwork" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1500&color=D27332&center=true&vCenter=true&width=435&lines=I+am+Mahmoud+Elhusseni;Communication+Engineering+Student;competitor+at+Kaggle;" alt="Typing SVG" /></a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -19,6 +19,7 @@
 <a href="https://www.facebook.com/mahmoud.elhoss.75"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" alt="Facebook"/></a>
  </p>
  
+ ---------------------------
  ### Tech Tools👨‍💻​
  <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python"/></a>
  <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=" alt="Numpy"/></a>
@@ -33,14 +34,4 @@
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt="Windows"/></a>
 </p>
 
-</br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudEl-Husseni&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="" height="192px" />
-</p>
-  
- <!---
-MahmoudEl-Husseni/MahmoudEl-Husseni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=MahmoudEl-Husseni&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEl-Husseni&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
