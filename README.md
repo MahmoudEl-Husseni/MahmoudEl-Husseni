@@ -1,6 +1,6 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1500&color=D27332&center=true&vCenter=true&width=435&lines=I+am+Mahmoud+Elhusseni;Communication+Engineering+Student;competitor+at+Kaggle;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1500&color=D27332&center=true&vCenter=true&width=500&lines=I+am+Mahmoud+Elhusseni;Communication+Engineering+Student;Data+Scientist+at+Kaggle;Problem+Solver+at+Codeforces+%7C+Leetcode;" alt="Typing SVG" /></a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -10,7 +10,7 @@
 - 💞️ I’m looking to be an innovator in AI field and be one of pioneers who play a part in AI evolution.
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤙• </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 👋​ </h3>
 <p align='center'>
 <a href="mailto:mahmoud.a.elhusseni@gmail.com"><img img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/mahmoudelhusseni/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
@@ -18,7 +18,14 @@
 <a href="https://www.kaggle.com/yasseinmahmoud"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=" alt="Kaggle"/></a>
 <a href="https://www.facebook.com/mahmoud.elhoss.75"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=" alt="Facebook"/></a>
  </p>
- 
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Compettive Programming Profiles 💻​ </h3>
+
+<p align='center'>
+<a href="https://codeforces.com/profile/elhusseni"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=FFFFFF&logo=Codeforces&logoColor=03a89e&label=" alt="Codeforces"/></a>
+<a href="https://leetcode.com/oudm753/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Leetcode&color=000000&logo=Leetcode&logoColor=ffa116&label=" alt="Leetcode"/></a>
+</p>
+
  ---------------------------
  ### Tech Tools👨‍💻​
  <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" alt="Python"/></a>
@@ -34,4 +41,14 @@
 <a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=" alt="Windows"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEl-Husseni&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✅ My GitHub Stats ✅
+
+<a href="https://github.com/MahmoudEl-Husseni">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudEl-Husseni&stars=true&include_all_commits=true&hide_border=true&show_icons=true&theme=radical" alt="Mahmoud Elhusseni's GitHub stats">
+</a>
+
+<a href="https://github.com/MahmoudEl-Husseni">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEl-Husseni&hide_border=true&langs_count=8&layout=compact&theme=radical" alt="Top Languages">
+</a>
+
